@@ -10,11 +10,13 @@ Somebody wanted me to create an example of a login system and so I made this up.
 Usage:
 ------
 These are the two default accounts inside the database.
+
 Account 1:
-	Username: user1
-	Password: pass1
+
+ - Username: user1
+ - Password: pass1
 
 Account 2:
-	Username: user2
-	Password: pass2
 
+ - Username: user2
+ - Password: pass2
